@@ -1,2 +1,15 @@
 Console.WriteLine("My name is Abdul Rehman");
 Console.WriteLine("24-ST-041");
+int a =10; int b= 20;
+int sum;
+sum = a+b;
+Console.WriteLine($"The Sum of Two numbers is : {sum}");
+int sub;
+sub = a-b;
+Console.WriteLine($"The subtraction of two numbers is :{sub}");
+int Multiplication;
+int Multiplication = a*b;
+Console.WriteLine($"The Multiplication of two numbers is: {multiplication}");
+int Division;
+Division = a/b
+Console.WriteLine($"The Division of two numbers is:{Division}");
