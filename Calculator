@@ -7,3 +7,6 @@ Console.WriteLine($"The Sum of Two numbers is : {sum}");
 int sub;
 sub = a-b;
 Console.WriteLine($"The subtraction of two numbers is :{sub}");
+int Multiplication;
+int Multiplication = a*b;
+Console.WriteLine($"The Multiplication of two numbers is: {multiplication}");
